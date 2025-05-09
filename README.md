@@ -27,7 +27,6 @@
 
 ## 📸 Screenshots
 
-*(Insert screenshots of your UI here if available)*
 
 ---
 
