@@ -45,3 +45,18 @@
 1. Clone the repo:
    ```bash
    git clone https://github.com/yourusername/movie-explorer.git
+2. Navigate to the project folder:
+   ```bash
+   cd movie-explorer
+
+3. Install dependencies:
+   ```bash
+   npm install
+  
+4. Add your TMDB API key to a .env file:
+   ```ini
+   REACT_APP_TMDB_API_KEY=your_tmdb_api_key_here
+
+5. Run the app:
+   ```bash
+   npm start
